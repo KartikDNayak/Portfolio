@@ -1,0 +1,5 @@
+target/
+.metadata/
+Servers/
+*.log
+*.class
